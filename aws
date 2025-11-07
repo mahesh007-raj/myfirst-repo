@@ -1,0 +1,19 @@
+If you’re using the GitHub website
+
+Go to the repository you want to delete.
+
+Example: https://github.com/username/repository-name
+
+Click the ⚙️ “Settings” tab (on the right side of the repository menu).
+
+Scroll all the way down to the “Danger Zone” section.
+
+Find “Delete this repository” and click the Delete this repository button.
+
+GitHub will ask you to:
+
+Type the repository name (e.g., username/repository-name) to confirm.
+
+Click the “I understand the consequences, delete this repository” button.
+
+Done — the repository is permanently deleted.
